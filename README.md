@@ -36,7 +36,7 @@ Para calcular um preço usando a tabela da Melhor Transportadora, primeiro se de
 
 Como você já deve ter percebido, para fazer o cálculo do frete será preciso descobrir o estado e cidade de cada cep, bem como se aquela cidade é capital ou não. Para fazer isso, você pode usar a seguinte api: **http://viacep.com.br/** ou a nossa base de ceps **https://location.melhorenvio.com.br/[cep]**. Lembrando que para caso de desempate, será avaliada a performance (velocidade).
 
-##Segunda Etapa: API de cotação de frete
+## Segunda Etapa: API de cotação de frete
 
 Desenvolver uma API para cotar os serviços da Melhor Transportadora.
 
