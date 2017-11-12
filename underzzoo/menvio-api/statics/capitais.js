@@ -1,0 +1,31 @@
+'use strict'
+
+module.exports = [
+  'RIO BRANCO',
+  'MACEIÓ',
+  'MACAPÁ',
+  'MANAUS',
+  'SALVADOR',
+  'FORTALEZA',
+  'BRASILIA',
+  'VITÓRIA',
+  'GOIÂNIA',
+  'SÃO LUÍS',
+  'CUIABÁ',
+  'CAMPO GRANDE',
+  'BELO HORIZONTE',
+  'BELÉM',
+  'JOÃO PESSOA',
+  'CURITIBA',
+  'RECIFE',
+  'TERESINA',
+  'RIO DE JANEIRO',
+  'NATAL',
+  'PORTO ALEGRE',
+  'PORTO VELHO',
+  'BOA VISTA',
+  'FLORIANÓPOLIS',
+  'SÃO PAULO',
+  'ARACAJU',
+  'PALMAS'
+]
