@@ -127,7 +127,7 @@ const getCotations = (body, shipment, volumeWeight, callback) => {
         }
         else {
           item = JSON.parse(JSON.stringify(data[0]))
-          item.weight = weight
+          item.weight = body.weight
           item.volumeWeight = volumeWeight
           item.total = item.price
           item.total = item.price
